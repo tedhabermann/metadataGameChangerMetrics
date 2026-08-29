@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T06",
+ "generated": "2026-08-24T06",
  "sets": [
   {
    "name": "ETH Repositories",
@@ -24,6 +24,17 @@
      "client": "eawag.rdm",
      "label": "",
      "history": "reports/eawag.rdm/eawag.rdm_useCaseHistory.json"
+    }
+   ]
+  },
+  {
+   "name": "Purdue University Research Repository",
+   "schedule": "weekly",
+   "series": [
+    {
+     "client": "purdue.purduelib",
+     "label": "",
+     "history": "reports/purdue.purduelib/purdue.purduelib_useCaseHistory.json"
     }
    ]
   },
