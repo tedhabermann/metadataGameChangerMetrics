@@ -68,6 +68,17 @@
       "consortium": "",
       "max": 1000,
       "random": true
+    },
+    {
+      "name": "eScire Repositories",
+      "active": true,
+      "schedule": "monthly",
+      "repositories": ["agbv.tlxzcf","qlny.xiobbw","itesm.ojevlu","gdcc.consorcio","buap.vdpfgv",
+        "djiw.wbwwos","agbv.amkluq","sml.cip","cide.ooigyd","uscm.zsltlu","bemc.yndfsz","uaz.ayzbvd",
+        "itesm.fzkcqk","agbv.dfvunq","agbv.yoqxik"],
+      "consortium": "",
+      "max": 1000,
+      "random": true
     }
   ]
 }
