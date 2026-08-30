@@ -76,7 +76,19 @@
       "repositories": ["agbv.tlxzcf","qlny.xiobbw","itesm.ojevlu","gdcc.consorcio","buap.vdpfgv",
         "djiw.wbwwos","agbv.amkluq","sml.cip","cide.ooigyd","uscm.zsltlu","bemc.yndfsz","uaz.ayzbvd",
         "itesm.fzkcqk","agbv.dfvunq","agbv.yoqxik"],
-      "consortium": "",
+      "max": 1000,
+      "random": true
+    },
+    {
+      "name": "eScire Periodicals",
+      "active": true,
+      "schedule": "monthly",
+      "repositories": ["inaoe.fesdwr","uaz.nhnuqy","uaz.mrperh","uaz.zngyst","uaz.iurcaw","uaz.zscfxk",
+        "uaz.pwsxfa","uaz.ujsmey","itesm.zidcct","uaz.npchek","uaz.onazxq","cide.azztrq","uaz.fjqznq",
+        "cide.bumsgb","uaz.ihgfsn","djiw.nkhaqy","uaz.tfiptw","uaz.ffndpt","uaz.qnlqni","uaz.uhjvbq",
+        "uaz.hvpegs","uaz.sktykt","uaz.eppehw","utt.erspty","uaz.swxkes","uaz.swnbrt","uaz.aafscn",
+        "buap.topsem","uaz.raczgk"
+      ],
       "max": 1000,
       "random": true
     }
