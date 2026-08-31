@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T06",
+ "generated": "2026-08-31T06",
  "sets": [
   {
    "name": "ETH Repositories",
@@ -104,6 +104,16 @@
      "history": "reports/sjyq.omytlw/sjyq.omytlw_useCaseHistory.json"
     }
    ]
+  },
+  {
+   "name": "eScire Repositories",
+   "schedule": "monthly",
+   "series": []
+  },
+  {
+   "name": "eScire Periodicals",
+   "schedule": "monthly",
+   "series": []
   }
  ]
 }
