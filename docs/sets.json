@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T06",
+ "generated": "2026-09-01T06",
  "sets": [
   {
    "name": "ETH Repositories",
@@ -108,12 +108,224 @@
   {
    "name": "eScire Repositories",
    "schedule": "monthly",
-   "series": []
+   "series": [
+    {
+     "client": "agbv.tlxzcf",
+     "label": "",
+     "history": "reports/agbv.tlxzcf/agbv.tlxzcf_useCaseHistory.json"
+    },
+    {
+     "client": "qlny.xiobbw",
+     "label": "",
+     "history": "reports/qlny.xiobbw/qlny.xiobbw_useCaseHistory.json"
+    },
+    {
+     "client": "itesm.ojevlu",
+     "label": "",
+     "history": "reports/itesm.ojevlu/itesm.ojevlu_useCaseHistory.json"
+    },
+    {
+     "client": "gdcc.consorcio",
+     "label": "",
+     "history": "reports/gdcc.consorcio/gdcc.consorcio_useCaseHistory.json"
+    },
+    {
+     "client": "buap.vdpfgv",
+     "label": "",
+     "history": "reports/buap.vdpfgv/buap.vdpfgv_useCaseHistory.json"
+    },
+    {
+     "client": "djiw.wbwwos",
+     "label": "",
+     "history": "reports/djiw.wbwwos/djiw.wbwwos_useCaseHistory.json"
+    },
+    {
+     "client": "agbv.amkluq",
+     "label": "",
+     "history": "reports/agbv.amkluq/agbv.amkluq_useCaseHistory.json"
+    },
+    {
+     "client": "sml.cip",
+     "label": "",
+     "history": "reports/sml.cip/sml.cip_useCaseHistory.json"
+    },
+    {
+     "client": "cide.ooigyd",
+     "label": "",
+     "history": "reports/cide.ooigyd/cide.ooigyd_useCaseHistory.json"
+    },
+    {
+     "client": "uscm.zsltlu",
+     "label": "",
+     "history": "reports/uscm.zsltlu/uscm.zsltlu_useCaseHistory.json"
+    },
+    {
+     "client": "bemc.yndfsz",
+     "label": "",
+     "history": "reports/bemc.yndfsz/bemc.yndfsz_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.ayzbvd",
+     "label": "",
+     "history": "reports/uaz.ayzbvd/uaz.ayzbvd_useCaseHistory.json"
+    },
+    {
+     "client": "itesm.fzkcqk",
+     "label": "",
+     "history": "reports/itesm.fzkcqk/itesm.fzkcqk_useCaseHistory.json"
+    },
+    {
+     "client": "agbv.dfvunq",
+     "label": "",
+     "history": "reports/agbv.dfvunq/agbv.dfvunq_useCaseHistory.json"
+    },
+    {
+     "client": "agbv.yoqxik",
+     "label": "",
+     "history": "reports/agbv.yoqxik/agbv.yoqxik_useCaseHistory.json"
+    }
+   ]
   },
   {
    "name": "eScire Periodicals",
    "schedule": "monthly",
-   "series": []
+   "series": [
+    {
+     "client": "inaoe.fesdwr",
+     "label": "",
+     "history": "reports/inaoe.fesdwr/inaoe.fesdwr_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.nhnuqy",
+     "label": "",
+     "history": "reports/uaz.nhnuqy/uaz.nhnuqy_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.mrperh",
+     "label": "",
+     "history": "reports/uaz.mrperh/uaz.mrperh_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.iurcaw",
+     "label": "",
+     "history": "reports/uaz.iurcaw/uaz.iurcaw_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.zscfxk",
+     "label": "",
+     "history": "reports/uaz.zscfxk/uaz.zscfxk_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.pwsxfa",
+     "label": "",
+     "history": "reports/uaz.pwsxfa/uaz.pwsxfa_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.ujsmey",
+     "label": "",
+     "history": "reports/uaz.ujsmey/uaz.ujsmey_useCaseHistory.json"
+    },
+    {
+     "client": "itesm.zidcct",
+     "label": "",
+     "history": "reports/itesm.zidcct/itesm.zidcct_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.npchek",
+     "label": "",
+     "history": "reports/uaz.npchek/uaz.npchek_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.onazxq",
+     "label": "",
+     "history": "reports/uaz.onazxq/uaz.onazxq_useCaseHistory.json"
+    },
+    {
+     "client": "cide.azztrq",
+     "label": "",
+     "history": "reports/cide.azztrq/cide.azztrq_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.fjqznq",
+     "label": "",
+     "history": "reports/uaz.fjqznq/uaz.fjqznq_useCaseHistory.json"
+    },
+    {
+     "client": "cide.bumsgb",
+     "label": "",
+     "history": "reports/cide.bumsgb/cide.bumsgb_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.ihgfsn",
+     "label": "",
+     "history": "reports/uaz.ihgfsn/uaz.ihgfsn_useCaseHistory.json"
+    },
+    {
+     "client": "djiw.nkhaqy",
+     "label": "",
+     "history": "reports/djiw.nkhaqy/djiw.nkhaqy_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.tfiptw",
+     "label": "",
+     "history": "reports/uaz.tfiptw/uaz.tfiptw_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.ffndpt",
+     "label": "",
+     "history": "reports/uaz.ffndpt/uaz.ffndpt_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.qnlqni",
+     "label": "",
+     "history": "reports/uaz.qnlqni/uaz.qnlqni_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.uhjvbq",
+     "label": "",
+     "history": "reports/uaz.uhjvbq/uaz.uhjvbq_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.hvpegs",
+     "label": "",
+     "history": "reports/uaz.hvpegs/uaz.hvpegs_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.sktykt",
+     "label": "",
+     "history": "reports/uaz.sktykt/uaz.sktykt_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.eppehw",
+     "label": "",
+     "history": "reports/uaz.eppehw/uaz.eppehw_useCaseHistory.json"
+    },
+    {
+     "client": "utt.erspty",
+     "label": "",
+     "history": "reports/utt.erspty/utt.erspty_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.swxkes",
+     "label": "",
+     "history": "reports/uaz.swxkes/uaz.swxkes_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.swnbrt",
+     "label": "",
+     "history": "reports/uaz.swnbrt/uaz.swnbrt_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.aafscn",
+     "label": "",
+     "history": "reports/uaz.aafscn/uaz.aafscn_useCaseHistory.json"
+    },
+    {
+     "client": "uaz.raczgk",
+     "label": "",
+     "history": "reports/uaz.raczgk/uaz.raczgk_useCaseHistory.json"
+    }
+   ]
   }
  ]
 }
